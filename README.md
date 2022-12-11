@@ -21,6 +21,16 @@ $ pip install aic_art_collection
 <img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_search_artwork.png" style="zoom:80%;" />
 </p>
 
+2. Usage of `get_museum_tour` function:
+```python
+# Retreive a tour program information at the Art Institute of Chicago.
+>>> from aic_art_collection import get_museum_tour
+>>> get_museum_tour('Tour')
+```
+<p align="center">
+<img src="[https://raw.githubusercontent.com/ltk2118/imfpy/main/img/usage.png](https://github.com/shaunahan/aic_art_collection/blob/main/img/get_museum_tour.png)" style="zoom:80%;" />
+</p>
+
 - Please refer to the [`vignette`](https://github.com/shaunahan/aic_art_collection/blob/main/aic_art_collection_vignette.ipynb) for more guidance. 
 
 ## Contributing
