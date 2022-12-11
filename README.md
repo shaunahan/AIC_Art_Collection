@@ -33,6 +33,13 @@ $ pip install aic_art_collection
 <img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_museum_tour.png" style="zoom:80%;" />
 </p>
 
+2. Usage of `post_popularity_stat` function:
+```python
+# This function counts the frequency of the keyword over time.
+>>> from aic_art_collection import post_popularity_stat
+>>> post_popularity_stat('Tour')
+```
+
 - Please refer to the [`vignette`](https://github.com/shaunahan/aic_art_collection/blob/main/aic_art_collection_vignette.ipynb) for more guidance. 
 
 ## Contributing
