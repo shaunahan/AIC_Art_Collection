@@ -40,7 +40,7 @@ $ pip install aic_art_collection
 >>> post_popularity_stat('Monet')
 ```
 <p align="center">
-<img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/post_popularity_stat.png" style="zoom:80%;" />
+<img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/post_popularity_stat.png" style="zoom:70%;" />
 </p>
 
 4. Usage of `get_image` function:
