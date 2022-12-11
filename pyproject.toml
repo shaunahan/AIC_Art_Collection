@@ -1,7 +1,8 @@
 [tool.poetry]
 name = "aic_art_collection"
 version = "0.2.5"
-description = "This python package retrives information about collections at the Art Institute of Chicago in a user-friendly way."
+description = "This python package retrieves artwork collections from the Art Institute of Chicago API in a user-friendly way. 
+It helps users to find information about artworks or artists of their interests with artworks visualized. "
 authors = ["Shauna Han"]
 license = "MIT"
 readme = "README.md"
