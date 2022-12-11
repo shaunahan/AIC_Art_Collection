@@ -40,7 +40,7 @@ $ pip install aic_art_collection
 >>> post_popularity_stat('Monet')
 ```
 <p align="center">
-<img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/post_popularity_stat.png" style="zoom:70%;" />
+<img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/post_popularity_stat.png" style="zoom:80%;" />
 </p>
 
 4. Usage of `get_image` function:
@@ -50,7 +50,7 @@ $ pip install aic_art_collection
 >>> get_image('Monet')
 ```
 <p align="center">
-<img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_image.png" style="zoom:70%;" />
+<img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_image.png" style="zoom:60%;" />
 </p>
 
 - For more information, please refer to the [`vignette`](https://github.com/shaunahan/aic_art_collection/blob/main/vignette.ipynb) for more guidance. 
