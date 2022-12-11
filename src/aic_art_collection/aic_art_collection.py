@@ -11,9 +11,7 @@ from IPython.display import display, HTML
 
 '''
 This python package retrives information about collections at the Art Institute of Chicago. 
-A user can query any keyword, whether it be the name of an artist, an artwork or an art category. 
-This package will generate queried inforamtion along with related information for the artwork, such as: 
-the date of the artwork, the place of origin, materials used, and the descriptions of the artwork.
+A user can query any keyword to find the art collection of their interest. 
 '''
 
 def get_search_artwork(artwork):
@@ -162,11 +160,8 @@ def post_popularity_stat(query):
         color='institution:N')
 
     return chart 
-#     return aic_response, aic_water_lilies_df
-# def vis(aic_water_lilies_df):
 
 
-"""
 def get_image(image):
     '''
     A function to print the quried keyword. A user can query artworks by the name of an aritst or by the name of an artwork.
@@ -197,7 +192,7 @@ def get_image(image):
     attach(aic_waterlilies_all_df, "image_id")
     viz = show()
     return viz
-    """
+
 
 
 
