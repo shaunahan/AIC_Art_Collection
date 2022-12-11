@@ -45,7 +45,7 @@ $ pip install aic_art_collection
 
 4. Usage of `get_image` function:
 ```python
-# This function retrieves an artwork collection of the queried keyword.
+# This function retrieves an art collection of the queried keyword.
 >>> from aic_art_collection import get_image
 >>> get_image('Monet')
 ```
