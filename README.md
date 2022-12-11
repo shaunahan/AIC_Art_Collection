@@ -17,10 +17,10 @@ $ pip install aic_art_collection
 >>> from aic_art_collection import get_search_artwork
 >>> get_search_artwork("Monet")
 ```
-
 <p align="center">
 <img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_search_artwork.png" style="zoom:80%;" />
 </p>
+<br>
 
 2. Usage of `get_museum_tour` function:
 ```python
@@ -30,7 +30,7 @@ $ pip install aic_art_collection
 ```
 
 <p align="center">
-<img src="[https://github.com/shaunahan/aic_art_collection/blob/main/img/get_museum_tour.png)" style="zoom:80%;" />
+<img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_museum_tour.png" style="zoom:80%;" />
 </p>
 
 - Please refer to the [`vignette`](https://github.com/shaunahan/aic_art_collection/blob/main/aic_art_collection_vignette.ipynb) for more guidance. 
