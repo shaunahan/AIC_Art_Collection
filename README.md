@@ -15,7 +15,7 @@ $ pip install aic_art_collection
 ```python
 # Retrieve art collection data by Monet.
 >>> from aic_art_collection import get_search_artwork
->>> get_search_artwork("Monet")
+>>> get_search_artwork("Claude Monet")
 ```
 <p align="center">
 <img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_search_artwork2.png" style="zoom:70%;" />
@@ -37,7 +37,7 @@ $ pip install aic_art_collection
 ```python
 # This function counts the frequency of the keyword over time.
 >>> from aic_art_collection import post_popularity_stat
->>> post_popularity_stat('Monet')
+>>> post_popularity_stat('Claude Monet')
 ```
 <p align="center">
 <img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/post_popularity_stat.png" style="zoom:80%;" />
@@ -47,7 +47,7 @@ $ pip install aic_art_collection
 ```python
 # This function retrieves an art collection of the queried keyword.
 >>> from aic_art_collection import get_image
->>> get_image('Monet')
+>>> get_image('Claude Monet')
 ```
 <p align="center">
 <img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_image.png" style="zoom:60%;" />
