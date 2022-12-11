@@ -53,7 +53,7 @@ $ pip install aic_art_collection
 <img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_image.png" style="zoom:80%;" />
 </p>
 
-- Please refer to the [`vignette`](https://github.com/shaunahan/aic_art_collection/blob/main/aic_art_collection_vignette.ipynb) for more guidance. 
+- For more information, please refer to the [`vignette`](https://github.com/shaunahan/aic_art_collection/blob/main/aic_art_collection_vignette.ipynb) for more guidance. 
 
 ## Contributing
 
