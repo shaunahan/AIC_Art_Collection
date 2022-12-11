@@ -18,7 +18,7 @@ $ pip install aic_art_collection
 >>> get_search_artwork("Monet")
 ```
 <p align="center">
-<img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_search_artwork.png" style="zoom:70%;" />
+<img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/get_search_artwork2.png" style="zoom:70%;" />
 </p>
 <br>
 
