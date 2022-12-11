@@ -39,6 +39,10 @@ $ pip install aic_art_collection
 >>> from aic_art_collection import post_popularity_stat
 >>> post_popularity_stat('Tour')
 ```
+<p align="center">
+<img src="https://github.com/shaunahan/aic_art_collection/blob/main/img/post_popularity_stat.png" style="zoom:80%;" />
+</p>
+
 
 - Please refer to the [`vignette`](https://github.com/shaunahan/aic_art_collection/blob/main/aic_art_collection_vignette.ipynb) for more guidance. 
 
