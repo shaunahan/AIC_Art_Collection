@@ -12,7 +12,7 @@ $ pip install aic_art_collection
 
 ## Usage
 
-- Please refer to the `vignette` for this package. [link](/Users/user/Documents/fall2022/mds/aic_art_collection/aic_art_collection_vignette.ipynb)
+- Please refer to the [`vignette`](/Users/user/Documents/fall2022/mds/aic_art_collection/aic_art_collection_vignette.ipynb) for this package. 
 
 ## Contributing
 
