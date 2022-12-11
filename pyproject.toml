@@ -1,16 +1,23 @@
 [tool.poetry]
 name = "aic_art_collection"
-version = "0.1.0"
-description = "A package for doing great things!"
+version = "0.2.5"
+description = "This python package retrives information about collections at the Art Institute of Chicago in a user-friendly way."
 authors = ["Shauna Han"]
 license = "MIT"
 readme = "README.md"
+documentation = 'https://aic_art_collection.readthedocs.io'
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.7"
 
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.dev.dependencies]
+myst-nb = "^0.17.1"
+sphinx-autoapi = "^2.0.0"
+sphinx-rtd-theme = "^1.1.1"
+pytest-cov = "^4.0.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+

@@ -1,6 +1,7 @@
 # aic_art_collection
 
-A package for doing great things!
+This python package retrieves artwork collection from the Art Institute of Chicago API in a user-friendly way. 
+It helps users to find information about an artwork or an artist of their interests, and also visualize the queried artworks. 
 
 ## Installation
 
